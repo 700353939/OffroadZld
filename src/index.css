@@ -15,11 +15,11 @@
 
 a {
   font-weight: 500;
-  color: green;
+  color: black;
   text-decoration: inherit;
 }
 a:hover {
-  color: green;
+  color: black;
 }
 
 body {

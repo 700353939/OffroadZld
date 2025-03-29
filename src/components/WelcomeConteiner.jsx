@@ -2,8 +2,7 @@ import jeep from '/jeep.svg'
 
 export default function WelcomeConteiner(){
     return (
-    <div className='welcome-conteiner'>
-        <h1>Offroad Zlatograd</h1>
+    <div className='welcome-conteiner'>        
         <img src={jeep} className="jeep" alt="Jeep" />
     </div>
     )
